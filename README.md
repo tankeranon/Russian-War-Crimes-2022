@@ -34,6 +34,14 @@ The following classifications are not (as of now) documented types of Russian wa
 
 # War Crimes
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://twitter.com/mattia_n/status/1497249454809915419/photo/1 "Logo Title Text 1")
+
+<a href="https://twitter.com/mattia_n/status/1497249454809915419/photo/1
+" target="_blank"><img src="https://twitter.com/mattia_n/status/1497249454809915419/photo/1" 
+alt="War Crime" width="240" height="180" border="10" /></a>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everything about this war is unreal and enraging. But reports surfaced that civilian houses were marked with certain symbols for airstrikes. Kyiv city authorities now urgently appeal to residents of high-rise buildings to check their buildings for those tags. <a href="https://twitter.com/hashtag/Ukraine?src=hash&amp;ref_src=twsrc%5Etfw">#Ukraine</a> <a href="https://t.co/jRef048PXD">pic.twitter.com/jRef048PXD</a></p>&mdash; Mattia Nelles (@mattia_n) <a href="https://twitter.com/mattia_n/status/1497249454809915419?ref_src=twsrc%5Etfw">February 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 | Date | Title/Description | War Crime Classification and Justification | Image Preview |  Media Link  | Media Backup Link |
