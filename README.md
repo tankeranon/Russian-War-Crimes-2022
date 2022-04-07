@@ -36,7 +36,7 @@ The following classifications are not (as of now) documented types of Russian wa
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/a7i4DP_PHxs/0.jpg)](http://www.youtube.com/watch?v=a7i4DP_PHxs)
+[![IMAGE ALT TEXT HERE](pic.twitter.com/jRef048PXD)](pic.twitter.com/jRef048PXD)
 
 <a href="https://twitter.com/mattia_n/status/1497249454809915419/photo/1
 " target="_blank"><img src="https://twitter.com/mattia_n/status/1497249454809915419/photo/1" 
