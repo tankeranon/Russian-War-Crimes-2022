@@ -3,8 +3,8 @@ Crowdsourced archive of Russian war crimes in Ukraine (2022). <br />
 
 ## War Crime Classifications (Article 8)
 
-- Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed
- - (i) Wilful Killing
+- Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed, Denial of Quarter
+ - (a)(i) **Wilful Killing**
  - (iv) Excessive incidental death, injury, and damage
  - (vi) Killing or wounding a person *hors de combat*
  - (vii)-1 Improper use of a flag of truce, (vii)-2 of a flag, insignia, or uniform of the hostile party, (vii)-3 of a flag, insignia, or uniform of the United Nations, or (vii)-4 of the distinctive emblem of the Geneva conventions
@@ -12,42 +12,42 @@ Crowdsourced archive of Russian war crimes in Ukraine (2022). <br />
  - (xii) Denial of Quarter (Declaration/command to spare no one, kill-all)
  - 
 
-- Crimes Against Civilian Populations or Protected Entities
- - (iv) Destruction and Appropriation of Property
- - (vii)-1 Unlawful Deportation and Transfer, and (vii)-2 Unlawful Confinement
+Cruel, Degrading, and Inhumane Acts Inhumane, Cruel, and Torturous Acts) Abhorrent Acts: Torture, Experiments, Biological, Chemical, Inhuman Treatment or Cruelty
+- 
+
+- Crimes Against Civilian Populations, Protected Entities, or Property
+ - (a)(iv) Destruction and Appropriation of Property
+ - (a)(vii)-1 Unlawful Deportation and Transfer, and (vii)-2 Unlawful Confinement
  - (i) Attacking Civilians
  - (ii) Attacking Civilian Objects
  - (iii) Attacking personnel or objects involved in humanitarian assistance or peacekeeping missions
  - (v) Attacking undefended places
  - (ix) Attacking protected objects - buildings related to religion, education, art, science, or charitable purposes, historical monuments, hospitals, or places where the sick and wounded are collected
  - (xiii) Destroying or seizing the enemy's property
+ - (xv) Compelling participation in military operations (Crimes Against Civilian Populations or Protected Entities)
+ - (xvi) Pillaging (Crimes Against Civilian Populations or Protected Entities)
+ - (xxii)-1 Rape, (xxii)-2 Sexual slavery, (xxii)-3 Enforced prostitution, (xxii)-4 Forced Pregnancy, (xxii)-5 Enforced sterilization, and (xxii)-6 Sexual violence
+ - 
+
+
 
 * (2)(a) Grave Breaches of the Geneva Convention
-  * (i) Wilful Killing (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
   * (ii)-1 Torture, (ii)-2 Inhuman Treatment, and (ii)-3 Biological Experiments (Torturous Acts)
   * (iii) Wilfully Causing Great Suffering
-  * (iv) Destruction and Appropriation of Property (Crimes Against Civilian Populations or Protected Entities)
-  * (vii)-1 Unlawful Deportation and Transfer, and (vii)-2 Unlawful Confinement (Crimes Against Civilian Populations or Protected Entities)
   * (viii) Taking Hostages
 * (2)(b) Serious Violations of International Law Applicable to International Armed Conflict
-  * (i) Attacking Civilians (Crimes Against Civilian Populations or Protected Entities)
-  * (ii) Attacking Civilian Objects (Crimes Against Civilian Populations or Protected Entities)
-  * (iii) Attacking personnel or objects involved in humanitarian assistance or peacekeeping missions (Crimes Against Civilian Populations or Protected Entities)
-  * (iv) Excessive incidental death, injury, and damage (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
-  * (v) Attacking undefended places (Crimes Against Civilian Populations or Protected Entities)
-  * (vi) Killing or wounding a person *hors de combat* (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
-  * (vii)-1 Improper use of a flag of truce, (vii)-2 of a flag, insignia, or uniform of the hostile party, (vii)-3 of a flag, insignia, or uniform of the United Nations, or (vii)-4 of the distinctive emblem of the Geneva conventions (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
   * (viii) The transfer by the Occupying Party of its civilian population into the territory it occupies, or the deportation of the civilian population of the occupied territory within or outside of the territory (Civilian population)
-  * (ix) Attacking protected objects - buildings related to religion, education, art, science, or charitable purposes, historical monuments, hospitals, or places where the sick and wounded are collected (Crimes Against Civilian Populations or Protected Entities)
   * (x)-1 Mutilation, or (x)-2 medical or scientific experiments (Torturous Acts)
-  * (xi) Treacherously killing or wounding (betraying and invitation of protection) (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
-  * (xii) Denial of Quarter (Declaration/command to spare no one, kill-all) (Killings or Injuries: Wilful, Excessive Incidental, *hors de combat*, Treacherous, or Falsely Pretensed)
-  * (xiii) Destroying or seizing the enemy's property (Crimes Against Civilian Populations or Protected Entities)
   * (xiv) Depriving nationals of the hostile power of rights or actions (court)
-  * (xv) Compelling participation in military operations (Crimes Against Civilian Populations or Protected Entities)
-  * (xvi) Pillaging (Crimes Against Civilian Populations or Protected Entities)
-  * (xvii) Employing poison or poisoned weapons (Inhumane, Cruel, and Torturous Acts) Torture, Experiments, or Use of Prohibited Weapons
+  * (xvii) Employing poison or poisoned weapons (Abhorrent Acts)
   * (xviii) Employing prohibited gases, liquids, materials, or devices
+  * (xix) Employing prohibited bullets
+  * (xx) Employing weapons, projectiles, or materials, or methods of warfare listed in the Annex to the Statute
+  * (xxi) Outrages upon personal dignity
+  * (xxiii) Using protected persons as shields
+  * (xxiv) Attacking objects or persons using the distinctive emblems of the Geneva Conventions
+  * (xxv) Starvation as a method of warfare
+  * (xxvi) Using, conscripting, or enlisting children
 
 All war crime definitions are derived from the ICC (International Criminal Court) which are in turn derived from the Geneva Conventions. 
 
