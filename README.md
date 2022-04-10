@@ -17,14 +17,17 @@ Especially Cruel and Inhumane Acts: Torture, Experiments, Prohibited Warfare (i.
 - (xviii) Employing prohibited gases, liquids, materials, or devices
 - (xix) Employing prohibited bullets
 - (xx) Employing weapons, projectiles, or materials, or methods of warfare listed in the Annex to the Statute
+- (xxi) Outrages upon personal dignity
 - (xxv) Starvation as a method of warfare
 
 - Crimes Against Civilian Populations, Protected Entities, or Property
  - (a)(i) **Wilful Killing** (CP)
+ - (a)(iii) Wilfully Causing Great Suffering
  - (iv) Excessive incidental death, injury, and damage (CP)
  - (a)(iv) Destruction and Appropriation of Property
  - (a)(v) Service in Hostile Forces
  - (a)(vii)-1 Unlawful Deportation and Transfer, and (vii)-2 Unlawful Confinement
+ - (a)(viii) Taking Hostages
  - (i) Attacking Civilians
  - (ii) Attacking Civilian Objects
  - (iii) Attacking personnel or objects involved in humanitarian assistance or peacekeeping missions
@@ -43,10 +46,8 @@ Court-Related
 - (a)(vi) Denying a Fair Trial
 
 * (2)(a) Grave Breaches of the Geneva Convention
-  * (iii) Wilfully Causing Great Suffering
-  * (viii) Taking Hostages
 * (2)(b) Serious Violations of International Law Applicable to International Armed Conflict
-  * (xxi) Outrages upon personal dignity
+  * 
 
 All war crime definitions are derived from the ICC (International Criminal Court) which are in turn derived from the Geneva Conventions. 
 
